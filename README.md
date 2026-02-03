@@ -1,4 +1,4 @@
-# Sales-Analysis-and-Prediction
+# World Happiness Report : EDA-and-Prediction
 
 
 ## The World Happines Report Analysis
